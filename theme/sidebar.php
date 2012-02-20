@@ -102,11 +102,6 @@
 			            <script type="text/javascript" src="http://paraz.org/blog/t.js"></script> 
 <script type="text/javascript" src="http://paraz.org/blog/t.php"></script>
 
-			
-			<li class="reader">
-			<script type="text/javascript" src="https://www.google.com/reader/ui/publisher-en.js"></script>
-<script type="text/javascript" src="https://www.google.com/reader/public/javascript/user/00668062566908539631/state/com.google/broadcast?n=7&callback=GRC_p(%7Bc%3A%22gray%22%2Ct%3A%22stane's%20shared%20items%22%2Cs%3A%22true%22%2Cb%3A%22false%22%7D)%3Bnew%20GRC"></script>            </li>
- 
                         <li>
 <div id="rss"><a href="http://feeds.feedburner.com/midstane" title="subscribe to rss"></a></div>
                         </li>	
