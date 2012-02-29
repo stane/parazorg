@@ -23,7 +23,7 @@ Tags: blue, custom header, fixed width, two columns, widgets
 /* Begin Typography & Colors */
 body {
 	font-size: 62.5%; /* Resets 1em to 10px */
-	font-family: 'Helvetica Neue', 'Lucida Grande', Helvetica, Verdana, Arial, Sans-Serif;
+	font-family: 'Helvetica Neue', 'Lucida Grande', Helvetica, Verdana, Arial, "Hiragino Sans GB", Sans-Serif;
 	/*background: #d5d6d7 url('images/kubrickbgcolor.jpg');*/
 	color: #333;
 	text-align: center;
@@ -91,7 +91,7 @@ small {
 	}
 
 h1, h2, h3 {
-	font-family: 'Helvetica Neue', 'Lucida Grande', Helvetica, Verdana, Arial, Sans-Serif;
+	font-family: 'Helvetica Neue', 'Lucida Grande', Helvetica, Verdana, Arial, "Hiragino Sans GB", Sans-Serif;
 	font-weight: bold;
 	}
 
@@ -117,7 +117,7 @@ h2.pagetitle {
 	}
 
 #sidebar h2 {
-	font-family: 'Helvetica Neue', 'Lucida Grande', Helvetica, Verdana, Arial, Sans-Serif;
+	font-family: 'Helvetica Neue', 'Lucida Grande', Helvetica, Verdana, Arial, "Hiragino Sans GB", Sans-Serif;
 	font-size: 10px;
 	font-weight: normal;
 	}
@@ -162,7 +162,7 @@ h2, h2 a, h2 a:hover, h2 a:visited, h3, h3 a, h3 a:hover, h3 a:visited, #sidebar
 	}
 
 .commentlist li, #commentform input, #commentform textarea {
-	font: 0.9em 'Helvetica Neue', 'Lucida Grande', Helvetica, Verdana, Arial, Sans-Serif;
+	font: 0.9em 'Helvetica Neue', 'Lucida Grande', Helvetica, Verdana, Arial, "Hiragino Sans GB", Sans-Serif;
 	}
 .commentlist li ul li {
 	font-size: 1em;
@@ -192,7 +192,7 @@ h2, h2 a, h2 a:hover, h2 a:visited, h3, h3 a, h3 a:hover, h3 a:visited, #sidebar
 	}
 
 #commentform p {
-	font-family: 'Helvetica Neue', 'Lucida Grande', Helvetica, Verdana, Arial, Sans-Serif;
+	font-family: 'Helvetica Neue', 'Lucida Grande', Helvetica, Verdana, Arial, "Hiragino Sans GB", Sans-Serif;
 	}
 
 .commentmetadata {
@@ -200,7 +200,7 @@ h2, h2 a, h2 a:hover, h2 a:visited, h3, h3 a, h3 a:hover, h3 a:visited, #sidebar
 	}
 
 #sidebar {
-	font: 1.1em 'Helvetica Neue', 'Lucida Grande', Verdana, Arial, Sans-Serif;
+	font: 1.1em 'Helvetica Neue', 'Lucida Grande', Helvetica, Verdana, Arial, "Hiragino Sans GB", Sans-Serif;
 	}
 
 small, #sidebar ul ul li, #sidebar ul ol li, .nocomments, .postmetadata, blockquote, strike {
